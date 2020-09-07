@@ -10,8 +10,8 @@ Hello! 😊
 My name is Sonia Chhay and I am interested in telling stories through data visualisation, user-centered design, and coding. My goal is ____. <br/><br/>
 
 ### Current
-- Python Teaching Assistant at **WeCloudData**
-- Front Desk at **DeHavilland**
+- Data Science Teaching Assistant at **WeCloudData**
+- Medical Administrative Assistant
 <br/><br/>
 
 ### Previous
