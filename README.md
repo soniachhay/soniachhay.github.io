@@ -7,11 +7,11 @@ title:  Sonia Chhay
 
 Hello! 😊
 
-My name is Sonia Chhay and I am ______. My goal is ____. 
+My name is Sonia Chhay and I am interested in telling stories through data visualisation, user-centered design, and coding. My goal is __.
 
 ### Current
-- Python Teaching Assistant at **WeCloudData**
-- Front Desk at **DeHavilland**
+- Data Science Teaching Assistant at **WeCloudData**
+- Medical Administrative Assistant
 
 ### Previous
 - STA130 Teaching Assistant at **UofT** 
